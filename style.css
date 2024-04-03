@@ -89,3 +89,20 @@ form {
     box-shadow: inset -4px 4px 0 #222;
     font-size: 0.9rem;
 }
+footer#copyRight {
+  bottom: 0;
+  background-color: #fafafa;
+  color: #0e0e0e;
+  font-size: 85%;
+  width: 100%;
+  font-style: none;
+  display: flex;
+  padding: 1rem 10%;
+  justify-content: center;
+  text-align: center;
+  text-decoration: none;
+}
+footer#copyRight a {
+  text-decoration: none;
+  font-weight: bold;
+}
